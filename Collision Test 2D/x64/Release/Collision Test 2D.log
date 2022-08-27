@@ -1,0 +1,18 @@
+﻿  glad.c
+  CollisionBox.cpp
+  Main.cpp
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Player.hpp(22,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Player.hpp(22,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Main.cpp(27,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Main.cpp(28,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Shader.cpp
+  stb.cpp
+  Texture.cpp
+  Window.cpp
+  Generating code
+  427 of 433 functions (98.6%) were compiled, the rest were copied from previous compilation.
+    414 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Collision Test 2D.vcxproj -> C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\x64\Release\Collision Test 2D.exe

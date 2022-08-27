@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Player.hpp(45,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Player.hpp(45,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Main.cpp(28,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\Collision Test 2D\source\Main.cpp(29,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Collision Test 2D.vcxproj -> C:\Users\bjl15\C C++\Libraries\OpenGL\Games\Game Testing\Collision Test 2D\x64\Debug\Collision Test 2D.exe
